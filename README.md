@@ -18,7 +18,7 @@ De aici, utilizatorul are la dispozitie mai multe functionalitati:
 - Functia de adaugare a unui cont - apsandu-se pe iconita de (+) din meniul principal.
 
 <p align="center">
-<img src = "readme-pics/add.PNG">
+<img src = "readme-pics/add.PNG" height="500" width="250">
 </p>
 <br><br>
 
