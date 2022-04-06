@@ -8,7 +8,7 @@ Este o aplicatie dezvoltata in Kotlin, avand in spate un server in Django cu o b
 In momentul intrarii in aplicatie, utilizatorului ii este afisata o lista cu toate conturile pe care acesta le-a adaugat pana in momentul de fata.
 
 <p align="center">
-<img src = "readme-pics/main.PNG">
+<img src = "readme-pics/main.PNG" height="600" width="350">
 </p>
 
 <br><br>
@@ -18,26 +18,26 @@ De aici, utilizatorul are la dispozitie mai multe functionalitati:
 - Functia de adaugare a unui cont - apsandu-se pe iconita de (+) din meniul principal.
 
 <p align="center">
-<img src = "readme-pics/add.PNG" height="500" width="250">
+<img src = "readme-pics/add.PNG" height="600" width="350">
 </p>
 <br><br>
 
 - Functia de vizualizare a informatiilor a unui cont - apasandu-se pe unul din conturile din lista din meniul principal.
 
 <p align="center">
-<img src = "readme-pics/details.PNG">
+<img src = "readme-pics/details.PNG" height="600" width="350">
 </p>
 <br><br>
 
 - Functia de modificare a informatiilor a unui cont - apasandu-se pe iconita de editare din sectiunea de informatii a unui cont.
 
 <p align="center">
-<img src = "readme-pics/details.PNG">
+<img src = "readme-pics/details.PNG" height="600" width="350">
 </p>
 <br><br>
 
 - Functia de stergere a unui cont - apasandu-se pe iconita de stergere din sectiunea de informatii a unui cont.
 
 <p align="center">
-<img src = "readme-pics/delete.PNG">
+<img src = "readme-pics/delete.PNG" height="600" width="350">
 </p>
